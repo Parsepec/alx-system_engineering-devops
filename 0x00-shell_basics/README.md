@@ -14,4 +14,5 @@
 11. List contents of current, parent and /boot directories in long format.
 12. Prints file information for iamafile located in /tmp.
 13. Creates a symbolic link between /bin/ls and __ls__
+14. Copies all html files in current directory to parent directory preserving files with similar names.
 
