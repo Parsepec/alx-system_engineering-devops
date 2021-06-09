@@ -12,4 +12,5 @@
 9. Deletes /tmp/holberton.
 10. Changes pwd to previous directory.
 11. List contents of current, parent and /boot directories in long format.
+12. Prints file information for iamafile located in /tmp.
 
