@@ -4,4 +4,5 @@
 1. List contents of current directory.
 2. Change directory to home directory.
 3. List contents of current directory in long format.
+4. List contents of current directory in long format and list hidden files and current and containing directories(. and ..).
 
