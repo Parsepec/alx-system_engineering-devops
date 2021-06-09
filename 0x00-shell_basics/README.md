@@ -10,4 +10,5 @@
 7. Moves a file betty from tmp to tmp/holberton.
 8. Removes betty file from /tmp/holberton.
 9. Deletes /tmp/holberton.
+10. Changes pwd to previous directory.
 
