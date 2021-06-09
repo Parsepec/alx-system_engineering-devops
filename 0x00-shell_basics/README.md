@@ -11,4 +11,5 @@
 8. Removes betty file from /tmp/holberton.
 9. Deletes /tmp/holberton.
 10. Changes pwd to previous directory.
+11. List contents of current, parent and /boot directories in long format.
 
